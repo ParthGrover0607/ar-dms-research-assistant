@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Environment variables - never commit these
+.env
+
+# Generated files
+output.txt
+
+# PDF files (large, don't commit)
+*.pdf
